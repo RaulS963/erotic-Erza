@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/erotic-Erza/static/css/main.5f361e03.chunk.css",
+    "main.js": "/erotic-Erza/static/js/main.c5bb7848.chunk.js",
+    "main.js.map": "/erotic-Erza/static/js/main.c5bb7848.chunk.js.map",
+    "runtime-main.js": "/erotic-Erza/static/js/runtime-main.db8cf3e5.js",
+    "runtime-main.js.map": "/erotic-Erza/static/js/runtime-main.db8cf3e5.js.map",
+    "static/js/2.5ab1fea5.chunk.js": "/erotic-Erza/static/js/2.5ab1fea5.chunk.js",
+    "static/js/2.5ab1fea5.chunk.js.map": "/erotic-Erza/static/js/2.5ab1fea5.chunk.js.map",
+    "index.html": "/erotic-Erza/index.html",
+    "precache-manifest.17bfefddb3242c3dd89ccb853d1ff7f6.js": "/erotic-Erza/precache-manifest.17bfefddb3242c3dd89ccb853d1ff7f6.js",
+    "service-worker.js": "/erotic-Erza/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/erotic-Erza/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ab1fea5.chunk.js.LICENSE.txt": "/erotic-Erza/static/js/2.5ab1fea5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/erotic-Erza/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8cf3e5.js",
+    "static/js/2.5ab1fea5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c5bb7848.chunk.js"
+  ]
+}
