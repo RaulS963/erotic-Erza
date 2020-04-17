@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>firebase</title>
+
+    <!-- <script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-database.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-auth.js"></script> -->
+    <script src="https://rauls963.github.io/rps2/for_index.js"></script>
+
+
+
+</head>
+
+<body>
+    <h1>welcome</h1>
+    <div id="root">
+
+        <input type="file" id="image-file" accept="images/*" />
+        <button onclick="push()">click</button>&nbsp;
+        <button onclick="get()">get images</button>
+        <div>
+            <img src="" alt="image" id="image-holder" />
+        </div>
+        
+
+    </div>
+
+
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-database.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyDtmQL3G4QBi0J-RVOF4W4PQjl2d6iUHjw",
+            authDomain: "fir-project-b88df.firebaseapp.com",
+            databaseURL: "https://fir-project-b88df.firebaseio.com",
+            projectId: "fir-project-b88df",
+            storageBucket: "fir-project-b88df.appspot.com",
+            messagingSenderId: "1021039086176",
+            appId: "1:1021039086176:web:14fef7ba0d0ddaf48d1105",
+            measurementId: "G-SWFV7784PE"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+    <script src="index.js"></script>
+</body>
+
+</html>
