@@ -68,6 +68,9 @@ function get(){
             image.attrib({
                 src: items[k]
             });
+            image.css({
+                maxWidth:'100%'            
+            });
         }
 
     }, function(err){
